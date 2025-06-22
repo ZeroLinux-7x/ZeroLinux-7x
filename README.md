@@ -1,5 +1,14 @@
+<h1 align="center">Zero7x</h1>
+<p align="center">
+
+  🐧 Developer of <strong>ZeroLinux</strong> — A custom Arch-based distro for hackers & devs.<br>
+</p>
+
+---
+
+### 💻 Projects
+- 🎯 **ZeroLinux** - An advanced Arch-based distro with custom Calamares installer, ZSH environment, hacking tools & more.
 <h1 align="center">
-  <img src="https://your-logo-url.png" width="120"/><br>
   ZeroLinux
 </h1>
 
@@ -39,24 +48,3 @@ ZeroLinux combines the power of Arch with a stunning ZSH environment, pre-instal
 - 💿 Calamares installer with custom branding and auto-partitioning
 - 🐧 Lightweight, clean, and blazing fast
 
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="assets/desktop.png" width="700" alt="ZeroLinux Desktop Screenshot">
-  <img src="assets/installer.png" width="700" alt="Calamares Installer Screenshot">
-</p>
-
----
-
-## 🛠️ Installation
-
-### 1. Download the ISO
-
-> (Coming Soon) — ISO will be available in the [Releases](https://github.com/ZeroLinux-7x/ZeroLinux/releases)
-
-### 2. Create a bootable USB
-
-```bash
-sudo dd if=ZeroLinux.iso of=/dev/sdX bs=4M status=progress && sync
